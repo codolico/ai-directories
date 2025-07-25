@@ -105,6 +105,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## E
 
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
+- [EveryDev.ai](https://www.everydev.ai) - AI tools directory focused on Developer Tooling
 - [Expify](https://www.expify.ai) - Biggest AI tools directory in the planet.
 
 ## F
